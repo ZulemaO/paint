@@ -1,0 +1,21 @@
+
+body {
+    margin: 0;
+}
+
+.top-nav {
+    display: flex;
+    flex-direction: row;
+    background-color: #80f0ff;
+    border: 2px solid #357070;
+    position: absolute;
+    width: 100%;
+}
+
+.top-nav * {
+    margin: 5px 10px;
+}
+
+#paint {
+    display: block;
+}
